@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+This project is a test of how to create a repo and clone it from Github to my desktop.
